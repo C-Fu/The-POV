@@ -20,21 +20,21 @@ Topics to discuss :
 
 - MCP
   
-  - ![](C:/Users/C-Fu/AppData/Roaming/marktext/images/2026-09-26-09-36-53-image.png)
+  - ![](images/2026-09-26-09-36-53-image.png)
   
   - Install https://github.com/microsoft/playwright-mcp for me. then in the currently opened document, do a google image search for krackeddevs logo, and put it inside the opened excel file
   
   - I have blender installed at `C:\Program Files\Blender Foundation\Blender 5.2` folder. install blender mcp to interact with it
   
-  - ![](C:/Users/C-Fu/AppData/Roaming/marktext/images/2026-09-26-09-37-56-image.png)
+  - ![](images/2026-09-26-09-37-56-image.png)
 
 - FORWARD DEPLOYED ENGINEER
   
-  - ![](C:/Users/C-Fu/AppData/Roaming/marktext/images/2026-09-25-13-09-43-image.png)
+  - ![](images/2026-09-25-13-09-43-image.png)
   
-  - ![](C:/Users/C-Fu/AppData/Roaming/marktext/images/2026-09-25-13-10-40-image.png)
+  - ![](images/2026-09-25-13-10-40-image.png)
   
-  - ![](C:/Users/C-Fu/AppData/Roaming/marktext/images/2026-09-25-13-11-09-image.png)
+  - ![](images/2026-09-25-13-11-09-image.png)
 
 - 
 
