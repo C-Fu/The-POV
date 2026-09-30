@@ -10,4 +10,10 @@ Training-materials repository for the "Anyone Can Build: From Problem to App" tr
 ### Blockers/Concerns
 - None
 
-Last activity: 2026-09-30 - Initialized minimal .planning scaffold for quick tasks
+### Quick Tasks Completed
+
+| # | Description | Date | Commit | Directory |
+|---|-------------|------|--------|-----------|
+| 260930-q3f | Create bilingual README + INSTALL/GSD/START guide set (EN + Bahasa Melayu) | 2026-09-30 | 820b55d | [260930-q3f-create-a-readme-md-and-readme-ms-my-md-i](./quick/260930-q3f-create-a-readme-md-and-readme-ms-my-md-i/) |
+
+Last activity: 2026-09-30 - Completed quick task 260930-q3f: bilingual README + INSTALL/GSD/START guides
