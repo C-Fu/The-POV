@@ -205,6 +205,29 @@ Then log in from the menu bar — your browser opens for sign-in.
 
 **Typical use in this training:** install Tailscale on the PC running OpenChamber **and** on your phone/laptop — then open the OpenChamber web UI from anywhere via the tailnet.
 
+**Serve an app on a port:**
+
+When your app is running on a local port — for example `npm run dev` on `http://localhost:3000` — you can share it with every device on your tailnet using `tailscale serve`:
+
+```bash
+# 1. Start your app (example: dev server on port 3000)
+npm run dev
+
+# 2. In a second terminal, serve that port over the tailnet
+tailscale serve --bg 3000
+```
+
+`serve` prints the URL — something like `https://<machine-name>.<tailnet>.ts.net` — open it on your phone or any other device on the tailnet. HTTPS is automatic (that's why you enabled certificates above), and the app stays **private**: only devices signed in to your tailnet can reach it.
+
+**Manage what's being served:**
+
+```bash
+tailscale serve status   # show what is being served (and the URL)
+tailscale serve reset    # stop serving and clear the config
+```
+
+> **Tip:** `serve` shares only within your tailnet. To expose a service to the public internet you would use `tailscale funnel` instead — usually not what you want for this training.
+
 **Handy commands:**
 
 ```bash

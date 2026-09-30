@@ -205,6 +205,29 @@ Kemudian log masuk dari menu bar — pelayar anda akan terbuka untuk log masuk.
 
 **Kegunaan lazim dalam latihan ini:** pasang Tailscale pada PC yang menjalankan OpenChamber **dan** pada telefon/laptop anda — kemudian buka UI web OpenChamber dari mana-mana melalui tailnet.
 
+**Sajikan aplikasi pada satu port:**
+
+Apabila aplikasi anda berjalan pada port tempatan — contohnya `npm run dev` di `http://localhost:3000` — anda boleh kongsikannya dengan semua peranti dalam tailnet menggunakan `tailscale serve`:
+
+```bash
+# 1. Mulakan aplikasi anda (contoh: dev server pada port 3000)
+npm run dev
+
+# 2. Dalam terminal kedua, sajikan port tersebut melalui tailnet
+tailscale serve --bg 3000
+```
+
+`serve` akan memaparkan URL — lebih kurang `https://<nama-mesin>.<tailnet>.ts.net` — bukanya pada telefon anda atau mana-mana peranti lain dalam tailnet. HTTPS adalah automatik (itulah sebabnya anda mengaktifkan sijil di atas), dan aplikasi kekal **peribadi**: hanya peranti yang log masuk ke tailnet anda boleh mengaksesnya.
+
+**Urus apa yang sedang disajikan:**
+
+```bash
+tailscale serve status   # papar apa yang sedang disajikan (dan URLnya)
+tailscale serve reset    # berhenti menyajikan dan kosongkan konfigurasi
+```
+
+> **Tip:** `serve` berkongsi hanya dalam tailnet anda sahaja. Untuk mendedahkan servis kepada internet awam, gunakan `tailscale funnel` — biasanya bukan yang anda perlukan untuk latihan ini.
+
 **Arahan berguna:**
 
 ```bash
