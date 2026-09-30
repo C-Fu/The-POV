@@ -31,7 +31,7 @@ Mana-mana satu daripada ini sesuai untuk mengolah idea dan menulis spec:
 
 ## 3. Asas penjimatan token
 
-Empat tabiat yang menjaga penggunaan AI anda supaya pantas dan jimat:
+Lima tabiat yang menjaga penggunaan AI anda supaya pantas dan jimat:
 
 1. **Jangan tampal PDF — tukar kepada Markdown atau teks biasa dahulu.**
    Sebab: PDF memenuhi konteks dengan sisa susun atur dan menelan lebih banyak token.
@@ -47,6 +47,9 @@ Empat tabiat yang menjaga penggunaan AI anda supaya pantas dan jimat:
 
 4. **Satu topik bagi setiap perbualan — mulakan chat baharu untuk masalah baharu.**
    Sebab: topik yang bercampur mencemarkan konteks dan mengelirukan model.
+
+5. **GIGO — Garbage In, Garbage Out.**
+   Sebab: AI hanya sebagus input yang anda berikan. Singkatan kabur seperti *"baiki benda login tu cepat"* menghasilkan output yang kabur dan salah. Guna bahasa dan istilah yang betul, serta tulis soalan dan fakta anda dengan lengkap — soalan yang lengkap dan tepat mendapat jawapan yang tepat.
 
 ---
 
