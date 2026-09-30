@@ -1,6 +1,6 @@
 # The POV — Develop with AI: From Problem to Working App
 
-Kit sumber kendiri untuk latihan **The POV** oleh **Yayasan Peneraju**: pasang peralatan, pelajari workflow GSD, dan ubah masalah seharian menjadi aplikasi yang berfungsi dengan bantuan AI.
+Kit sumber kendiri bagi latihan **The POV** untuk **Yayasan Peneraju**: pasang peralatan, pelajari workflow GSD, dan ubah masalah seharian menjadi aplikasi yang berfungsi dengan bantuan AI.
 
 Bahasa Melayu | [English](README.md)
 

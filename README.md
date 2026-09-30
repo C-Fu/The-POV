@@ -1,6 +1,6 @@
 # The POV — Develop with AI: From Problem to Working App
 
-Self-guided toolkit for **The POV** training by **Yayasan Peneraju**: install the tools, learn the GSD workflow, and turn an everyday problem into a working app with AI.
+Self-guided toolkit for **The POV**, the training prepared for **Yayasan Peneraju**: install the tools, learn the GSD workflow, and turn an everyday problem into a working app with AI.
 
 English | [Bahasa Melayu](README.ms-MY.md)
 

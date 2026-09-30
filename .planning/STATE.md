@@ -1,7 +1,7 @@
 # Project State
 
 ## Project
-Training-materials repository for the "Anyone Can Build: From Problem to App" training (Yayasan Peneraju). Docs-only repo: training notes, outlines, and bilingual guides. No application code.
+Training-materials repository for the "Anyone Can Build: From Problem to App" training prepared for Yayasan Peneraju. Docs-only repo: training notes, outlines, and bilingual guides. No application code.
 
 ## Status
 - Milestone: none (ad-hoc docs repo)
