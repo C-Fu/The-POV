@@ -13,6 +13,7 @@ English | [Bahasa Melayu](README.ms-MY.md)
 | [START.md](START.md) | Free AI chat tools, token-saving basics, writing your first spec | [START.ms-MY.md](START.ms-MY.md) |
 | [INSTALL.md](INSTALL.md) | Step-by-step install (Windows/macOS): Node.js → OpenCode → gsd-opencode → OpenChamber → Tailscale | [INSTALL.ms-MY.md](INSTALL.ms-MY.md) |
 | [GSD.md](GSD.md) | GSD workflow quickstart: from project creation to shipped milestones | [GSD.ms-MY.md](GSD.ms-MY.md) |
+| [SPEC-DRIVEN-DEVELOPMENT.md](SPEC-DRIVEN-DEVELOPMENT.md) | Why specs beat prompts, and the five spec files used in this toolkit | [SPEC-DRIVEN-DEVELOPMENT.ms-MY.md](SPEC-DRIVEN-DEVELOPMENT.ms-MY.md) |
 | [Anyone Can Build- 2-Hour Training Outline](Anyone%20Can%20Build-%202-Hour%20Training%20Outline.md) | The training session outline | — |
 | [Anyone Can Build- From Problem to App](Anyone%20Can%20Build-%20From%20Problem%20to%20App.md) | Full training material: problem to app | — |
 

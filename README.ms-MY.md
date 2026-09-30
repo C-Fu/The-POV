@@ -13,6 +13,7 @@ Bahasa Melayu | [English](README.md)
 | [START.ms-MY.md](START.ms-MY.md) | Alat AI chat percuma, asas penjimatan token, menulis spec pertama anda | [START.md](START.md) |
 | [INSTALL.ms-MY.md](INSTALL.ms-MY.md) | Panduan pemasangan langkah demi langkah (Windows/macOS): Node.js → OpenCode → gsd-opencode → OpenChamber → Tailscale | [INSTALL.md](INSTALL.md) |
 | [GSD.ms-MY.md](GSD.ms-MY.md) | Panduan ringkas workflow GSD: daripada penciptaan projek sehingga milestone siap | [GSD.md](GSD.md) |
+| [SPEC-DRIVEN-DEVELOPMENT.ms-MY.md](SPEC-DRIVEN-DEVELOPMENT.ms-MY.md) | Kenapa spesifikasi mengatasi prompt, dan lima fail spesifikasi yang digunakan dalam toolkit ini | [SPEC-DRIVEN-DEVELOPMENT.md](SPEC-DRIVEN-DEVELOPMENT.md) |
 | [Anyone Can Build- 2-Hour Training Outline](Anyone%20Can%20Build-%202-Hour%20Training%20Outline.md) | Peta ringkas sesi latihan (dokumen bahasa Inggeris) | — |
 | [Anyone Can Build- From Problem to App](Anyone%20Can%20Build-%20From%20Problem%20to%20App.md) | Bahan latihan penuh: daripada masalah kepada aplikasi (dokumen bahasa Inggeris) | — |
 
